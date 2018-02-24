@@ -1,0 +1,6 @@
+[title~='https://academicscc.vit.ac.in/student/home.asp'] > img {content: url('https://raw.githubusercontent.com/vishhvak/Vivaldi-Customizations/master/FFCS.ico');}
+[title~='http://moodlecc.vit.ac.in/'] > img {content: url('https://raw.githubusercontent.com/vishhvak/Vivaldi-Customizations/master/moodle.ico');}
+[title~='https://web.whatsapp.com/'] > img {content: url('https://raw.githubusercontent.com/vishhvak/Vivaldi-Customizations/master/whatsapp.ico');}
+.tab-header .favicon {
+	opacity: 0;
+}
